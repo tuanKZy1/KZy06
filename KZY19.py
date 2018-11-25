@@ -9,8 +9,8 @@ mess = """======================================================
                         Kzy.
 ======================================================"""
 
-print mess
-print "Created by Ubaii ID"
+print messh
+print "Created by Mr.KZy"
 title = raw_input("Judul title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
